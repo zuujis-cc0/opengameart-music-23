@@ -2,7 +2,19 @@
 
 **17 assets from [OpenGameArt](https://opengameart.org), dedicated to the public domain under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).** Use them in any game, free or paid, and change them however you like; no credit is needed.
 
-**This repository is filling itself.** Its [update workflow](.github/workflows/update.yml) is downloading the files from [OpenGameArt](https://opengameart.org); the list of assets with pictures appears here when it is done.
+Music from OpenGameArt entries licensed CC0 (some also offer other licences; CC0 is the one that applies here). 835.7 MB in all.
+
+This is a copy kept by [zuujis-cc0](https://github.com/zuujis-cc0) so game makers can take single files from GitHub. It is not made by or affiliated with OpenGameArt: the originals, often in more formats and higher resolutions, are on [opengameart.org](https://opengameart.org). If they help you, consider [supporting OpenGameArt](https://opengameart.org/content/faq).
+
+Every file is listed in [MANIFEST.tsv](MANIFEST.tsv) with its size and SHA-256. More free assets: [the Zuujis collection](https://github.com/zuujis-cc0/free-game-assets#readme).
+
+| | | | |
+| :-: | :-: | :-: | :-: |
+| <b><a href="retro-tunes">Retro Tunes</a></b><br><sub>by TheFrenchDodo · <a href="https://opengameart.org/content/retro-tunes">source</a></sub> | <b><a href="retro-wave-collection">Retro Wave (Collection)</a></b><br><sub>by Holizna · <a href="https://opengameart.org/content/retro-wave-collection">source</a></sub> | <b><a href="rhythm-factory">Rhythm Factory</a></b><br><sub>by Zane Little Music · <a href="https://opengameart.org/content/rhythm-factory">source</a></sub> | <b><a href="road-rage">ROAD RAGE</a></b><br><sub>by MNDV.ecb · <a href="https://opengameart.org/content/road-rage">source</a></sub> |
+| <b><a href="royal-run">Royal run</a></b><br><sub>by iamoneabe · <a href="https://opengameart.org/content/royal-run">source</a></sub> | <b><a href="rpg-loop-1">Rpg Loop 1</a></b><br><sub>by Tozan · <a href="https://opengameart.org/content/rpg-loop-1">source</a></sub> | <b><a href="rpg-melody-22">Rpg Melody 22</a></b><br><sub>by Tozan · <a href="https://opengameart.org/content/rpg-melody-22">source</a></sub> | <b><a href="rpg-piano-melody-23">Rpg Piano Melody 23</a></b><br><sub>by Tozan · <a href="https://opengameart.org/content/rpg-piano-melody-23">source</a></sub> |
+| <b><a href="rpg-village-style-song">RPG Village style song</a></b><br><sub>by ShggothSlave · <a href="https://opengameart.org/content/rpg-village-style-song">source</a></sub> | <b><a href="rpg-vipraphone-and-piano">Rpg Vipraphone And Piano</a></b><br><sub>by Tozan · <a href="https://opengameart.org/content/rpg-vipraphone-and-piano">source</a></sub> | <b><a href="rush-top-spin-only">Rush Top Spin Only</a></b><br><sub>by Spring Spring · <a href="https://opengameart.org/content/rush-top-spin-only">source</a></sub> | <b><a href="rythm-factory-rythm-garden-raspberry-jam-second-cruise-remixed-congusbongus-vs">Rythm factory, rythm garden, raspberry jam & second cruise remixed (Congusbongus vs ZaneLittleMusic)</a></b><br><sub>by glitchart · <a href="https://opengameart.org/content/rythm-factory-rythm-garden-raspberry-jam-second-cruise-remixed-congusbongus-vs">source</a></sub> |
+| <b><a href="rythm-garden-second-cruise-congusbongus-remixed">Rythm garden & second cruise (congusbongus remixed)</a></b><br><sub>by glitchart · <a href="https://opengameart.org/content/rythm-garden-second-cruise-congusbongus-remixed">source</a></sub> | <b><a href="sad-lo-fi-lofi-collectioni">Sad Lo-Fi (Lofi Collectioni)</a></b><br><sub>by Holizna · <a href="https://opengameart.org/content/sad-lo-fi-lofi-collectioni">source</a></sub> | <b><a href="sassy-sultan">Sassy Sultan</a></b><br><sub>by iamoneabe · <a href="https://opengameart.org/content/sassy-sultan">source</a></sub> | <b><a href="sature">sature</a></b><br><sub>by cinameng · <a href="https://opengameart.org/content/sature">source</a></sub> |
+| <b><a href="scarborough-fair">Scarborough Fair</a></b><br><sub>by Axel Stewart · <a href="https://opengameart.org/content/scarborough-fair">source</a></sub> |  |  |  |
 
 ---
 
